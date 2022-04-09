@@ -16,7 +16,7 @@ const Portfolio = () => {
           </div>
           <h3>Ecomm Shop React-Native</h3>
           <div  className='portfolio__item-cta' >
-            <a href="https://github.com/vidwatk/shoppecomm" className="btn">GitHub</a>
+            <a href="https://github.com/vidwatk/shoppecomm" className="btn" target="_blank">GitHub</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -25,7 +25,7 @@ const Portfolio = () => {
           </div>
           <h3>Uber-Eats clone</h3>
           <div className='portfolio__item-cta'>
-            <a href="https://github.com/vidwatk/uber-eats" className="btn">GitHub</a>
+            <a href="https://github.com/vidwatk/uber-eats" className="btn" target="_blank">GitHub</a>
           </div>
         </article>
         <article className='portfolio__item'>
@@ -34,7 +34,7 @@ const Portfolio = () => {
           </div>
           <h3>Restful Backend</h3>
           <div className='portfolio__item-cta' >
-            <a href="https://github.com/vidwatk/backend" className="btn">GitHub</a>
+            <a href="https://github.com/vidwatk/backend" className="btn" target="_blank">GitHub</a>
           </div>
         </article>
       </div>
