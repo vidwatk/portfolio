@@ -22,7 +22,7 @@ const Experience = () => {
                 <RiAwardFill className='experience__details-icon'/>
                 <div>
                   <h4>ReactJS</h4>
-                <small className='text-light'>Experienced</small>
+                <small className='text-light'>Very Experienced</small>
                 </div>
             </article>
             <article className='experience__details'>
