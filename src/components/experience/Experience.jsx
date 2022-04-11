@@ -50,7 +50,7 @@ const Experience = () => {
         </div>
         {/* END OF FRONT END */}
         <div className="experience__backend">
-        <h3>Back End Development</h3>
+        <h3>Back-End Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
                 <RiAwardFill className='experience__details-icon'/>
